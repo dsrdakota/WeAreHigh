@@ -1,0 +1,8 @@
+{
+	"author": "dsrdakota",
+	"dependencies": [ "BepInEx-BepInExPack-5.4.2100", "Azumatt-Official_BepInExConfigurationManager-18.3.0" ],
+	"description": "WeAreHigh is a collection of different QoL modifications to enhance gameplay.",
+	"name": "WeAreHigh",
+	"version_number": "1.0.0",
+	"website_url": ""
+}
